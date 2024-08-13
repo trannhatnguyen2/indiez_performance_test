@@ -1,6 +1,6 @@
 -- Create table 'tree'
 CREATE TABLE tree (
-	id			INT,
+	id		INT,
 	parent_id	INT
 )
 
