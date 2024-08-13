@@ -74,7 +74,7 @@ def transform_data(row_values):
 # Main
 ###############################################
 def main():
-    merged_path = 'result_merged/merged_data.csv'
+    merged_path = 'merged_data.csv'
 
     all_columns = ['{created_at}', '{country}', '{os_name}', 
                    '{device_type}', '{random_user_id}', '{store}', 
